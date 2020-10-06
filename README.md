@@ -1,2 +1,2 @@
-# my-own-game-c-44
-there are 2 players
+# p5.play-boilerplate
+Boiler plate for p5.play
